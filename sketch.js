@@ -179,13 +179,7 @@ function draw(){
    paddel.show();
    paddel.update();
    
-   if(keyIsPressed)
-   {
-     if(keycode==32)
-     {
-       clack.play();
-     }
-   }
+ 
   
 }
 function keyReleased(){
